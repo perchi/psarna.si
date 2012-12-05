@@ -1,0 +1,134 @@
+﻿{
+	"success": true,
+	"errors": [],
+	"data": [
+				{
+					"id": 1,
+					"sprememba": "25. december 2010",
+					"ime": "Lukas Cicerov",
+					"img": "http://lh5.ggpht.com/_inA_san16GQ/TT_wtoIn9AI/AAAAAAAAAcw/7wLNKIFdU10/1.png",
+					"mati": null,
+					"oce": null,
+					"polezen": "6.2.2004",
+					"poginil": "19.5.2012",
+					"izpiti": "B-BH, IPO 1, IPO 2, IPO 3",
+					"TODO": "KKL 1",
+					"HD": "NORMAL",
+					"ED": "NORMAL",
+					"DNA": "GEPRÜFT",
+					"galerija": "Lukas",
+					"videos": [
+						{
+							"id": 1,
+							"url": "http://www.youtube.com/embed/hm-VF1n95kQ"
+						}
+					]
+				},
+				{
+					"id": 2,
+					"sprememba": "14. januar 2012",
+					"ime": "Cora Weisse Agram",
+					"img": "http://lh4.ggpht.com/_inA_san16GQ/TT_wticCDbI/AAAAAAAAAc0/mh9kiFkXhfQ/2.png",
+					"mati": "Zinna Weisse Agram",
+					"oce": "Karas crveni Mayestoso",
+					"polezen": "3.5.2007",
+					"izpiti": "B-BH",
+					"TODO": null,
+					"HD": "FAST NORMAL",
+					"ED": "NORMAL",
+					"DNA": "GEPRÜFT",
+					"galerija": "Cora",
+					"mladici": [
+						{
+							"id": 1,
+							"ime": "Leglo A 3/4 (15.04.2011)"
+						},
+						{
+							"id": 2,
+							"ime": "Leglo B (22.03.2011)"
+						},
+						{
+							"id": 3,
+							"ime": "Leglo C (01.03.2012)"
+						}
+					]
+				},
+				{
+					"id": 3,
+					"sprememba": "24. september 2011",
+					"ime": "Basha Howiland",
+					"img": "https://lh6.googleusercontent.com/-DN-QtTODwBU/Tog2gqgfU-I/AAAAAAAAArA/EBYLCrLJm1Q/3.png",
+					"mati": "Cora Weisse Agram",
+					"oce": "Yoker vom Leithawald",
+					"polezen": "21.01.2011",
+					"izpiti": null,
+					"TODO": null,
+					"HD": null,
+					"ED": null,
+					"DNA": null,
+					"galerija": "Basha",
+					"tekmovanja": [
+						{
+							"ime": "2.Pliberškov memorial Maribor (14.5.2011)",
+							"uvrstitev" : "1. mesto, razred 3-6 mesecev, sodnik Uwe Sprenger (DE)"
+						},
+						{
+							"ime": "Specialna razstava za NO Murska Sobota (18.6.2011)",
+							"uvrstitev" : "1. mesto, razred 3-6 mesecev, sodnik Rainer Mast (DE)"
+						}
+,
+						{
+							"ime": "SVÖ Bundessiegerzuchtschau A-Kohfidisch (19.-21.8.2011)",
+							"uvrstitev" : "5.mesto, razred 6-9 mesece, sodnik H.Wehinger (A)"
+						}
+					] 
+				},
+				{
+					"id": 4,
+					"sprememba": "29. januar 2011",
+					"ime": "Alona Howiland",
+					"img": "https://lh6.googleusercontent.com/-XqDjcsJGTqQ/UI6SyT8ejeI/AAAAAAAAA_A/2psp-iGNI3o/s263/alona.png",
+					"mati": "Cora Weisse Agram",
+					"oce": "Bonni Sajbertov",
+					"lastnik": "Nina Štefan, Domžale",
+					"polezen": "15.02.2010",
+					"izpiti": "B-BH",
+					"TODO": null,
+					"HD": "NORMAL",
+					"ED": "NORMAL",
+					"DNA": "GEPRÜFT",
+					"galerija": "LegloA2010Alona"
+				},
+				{
+					"id": 5,
+					"sprememba": "12. januar 2012",
+					"ime": "Baxi Howiland",
+					"img": "https://lh4.googleusercontent.com/-KGcECOhtFLg/Tw9JI605imI/AAAAAAAAAwQ/Rh61X60C878/s263/Baxi.png",
+					"mati": "Cora Weisse Agram",
+					"oce": "Yoker vom Leithawald",
+					"lastnik": "Družina Nered, Ljubljana",
+					"polezen": "21.01.2011",
+					"izpiti": null,
+					"TODO": null,
+					"HD": null,
+					"ED": null,
+					"DNA": null,
+					"galerija": "LegloB2011Baxi"
+				},
+				{
+					"id": 6,
+					"sprememba": "12. november 2012",
+					"ime": "Corri Howiland",
+					"img": "https://lh5.googleusercontent.com/-Ezlf90itT2c/UKOEZYq4OVI/AAAAAAAABAc/2PBb7ys_Foc/s263/corri.png",
+					"mati": "Cora Weisse Agram",
+					"oce": "Yoker vom Leithawald",
+					"polezen": "02.01.2012",
+					"izpiti": null,
+					"TODO": null,
+					"HD": null,
+					"ED": null,
+					"DNA": null,
+					"galerija": "Corri"
+				}
+			]
+}

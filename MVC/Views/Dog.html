@@ -1,0 +1,108 @@
+﻿<h1>${this.ime}</h1>
+
+{{if this.sprememba}}
+    <span class="datum">zadnja sprememba: ${this.sprememba}</span>
+    <div class="cb"></div>
+    <br />
+{{/if}}
+
+<div id="content-dog">
+    <div class="col3wide">
+        <a class="profil-link" href="javascript:void(0)" title="Profil"><img class="profil-img" src="${this.img}" /></a>
+    </div>
+
+    <div class="col4">
+        <h2>Osnovni podatki:</h2>
+        
+        {{if this.oce}}
+            <p><strong>Oce:</strong> ${this.oce}</p>
+        {{/if}}
+
+        {{if this.mati}}
+            <p><strong>Mati:</strong> ${this.mati}</p>
+        {{/if}}
+        
+        {{if this.lastnik}}
+            <p><strong>Lastnik:</strong> ${this.lastnik}</p>
+        {{/if}}
+
+        {{if this.polezen}}
+        <p><strong>Poležen:</strong> ${this.polezen}</p>
+        {{/if}}
+		
+		{{if this.poginil}}
+        <p><strong>Slovo:</strong> ${this.poginil}</p>
+        {{/if}}
+        
+        {{if this.izpiti}}
+            <p><strong>Izpiti:</strong> ${this.izpiti}</p>
+        {{/if}}
+        
+        {{if this.TODO}}
+            <p><strong>TODO:</strong> ${this.TODO}</p>
+        {{/if}}
+        
+        {{if this.HD}}
+            <p><strong>HD:</strong> ${this.HD}</p>
+        {{/if}}
+        
+        {{if this.ED}}
+            <p><strong>ED:</strong> ${this.ED}</p>
+        {{/if}}
+        
+        {{if this.DNA}}
+            <p><strong>DNA:</strong> ${this.DNA}</p>
+        {{/if}}
+
+        {{if this.mladici}}
+            <br />
+            <h2>Mladiči:</h2>
+            <ul class="list-green">
+                {{each this.mladici}}
+                     <li><a href="#/breedings/${this.id}" title="${this.ime}">${this.ime}</a></li>
+                {{/each}}
+            </ul>
+            <br />
+        {{/if}}
+
+        {{if this.tekmovanja}}
+            <br />
+            <h2>Tekmovanja:</h2>
+            <ul class="list-green">
+                {{each this.tekmovanja}}
+                     <li>
+                        <b>${this.ime}</b>
+                        <p style="font-style: italic">${this.uvrstitev}</p>
+                     </li>
+                {{/each}}
+            </ul>
+            <br />
+        {{/if}}
+        
+        <br />
+        <script src="http://connect.facebook.net/sl_SI/all.js#xfbml=1"></script>
+		<fb:like width="395" font="verdana"></fb:like>
+    </div>
+</div>
+
+<div class="cb"></div>
+
+<h1>Slike</h1>
+<div id="galerija"></div>
+<div class="cb"></div>
+
+{{if this.videos}}
+	<h1>Video</h1>
+	{{each this.videos}}
+		<iframe width="640" height="480" src="${this.url}" frameborder="0" allowfullscreen></iframe>
+		<div class="cb"></div>
+	{{/each}}
+{{/if}}
+
+<script type="text/javascript">
+
+$(document).ready(function () {
+    $("#galerija").pwi({ username: 'marjan.holer', mode: 'album', album: "${this.galerija}", thumbSize: 160, thumbCrop: 1, showAlbumDescription: false, popupExt: function (photos) { photos.fancybox({ 'hideOnContentClick': false }) } });
+});
+ 
+</script>

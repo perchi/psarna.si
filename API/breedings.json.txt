@@ -1,0 +1,325 @@
+﻿{
+	"success": true,
+	"errors": [],
+	"data": [
+				{
+					"id": 1,
+					"ime": "A - LEGLO (3/4) 15.02.2010 (za oddajo od 15.04.2010)",
+					"sprememba": "25. december 2010",
+					"mati": [{
+						"ime": "Cora Weisse Agram",
+						"img": "http://lh4.ggpht.com/_inA_san16GQ/TT_wticCDbI/AAAAAAAAAc0/mh9kiFkXhfQ/2.png",
+						"link": "http://www.psarna.si/index.html#/dogs/2",
+						"mati": "Zinna Weisse Agram",
+						"oce": "Karas crveni Mayestoso",
+						"polezen": "3.5.2007",
+						"izpiti": "B-BH",
+						"TODO": null,
+						"HD": "FAST NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"oce": [{
+						"ime": "Bonni Sajbertov",
+						"img": "http://lh5.ggpht.com/_inA_san16GQ/TT_wt8tmlWI/AAAAAAAAAc8/0Ovcgh87qz0/4.png",
+						"link": "http://www.pedigreedatabase.com/gsd/pedigree/635271.html",
+						"mati": null,
+						"oce": null,
+						"polezen": "26.02.2002",
+						"izpiti": "IPO-1",
+						"TODO": null,
+						"HD": "FAST NORMAL",
+						"ED": null,
+						"DNA": "GELAGERT"
+					}],
+					"galerije": [
+						{
+							"id": "LegloA201010Teden",
+							"ime": "10. teden"
+						},
+						{
+							"id": "LegloA20107Teden",
+							"ime": "7. teden"
+						},
+						
+						{
+							"id": "LegloA20106Teden",
+							"ime": "6. teden"
+						},
+						{
+							"id": "LegloA20105TedenSamci",
+							"ime": "5. teden samci",
+							"samci": true,
+							"imena": [
+								"Ando Howiland",
+								"Amos Howiland",
+								"Aylo Howiland"
+							]
+						},
+						{
+							"id": "LegloA20105TedenSamice",
+							"ime": "5. teden samice",
+							"samci": false,
+							"imena": [
+								"Akira Howiland",
+								"Alaya Howiland",
+								"Alba Howiland",
+								"Alona Howiland"
+							]
+						},
+						{
+							"id": "LegloA20104Teden",
+							"ime": "4. teden"
+						},
+						{
+							"id": "LegloA20103Teden",
+							"ime": "3. teden"
+						},
+						{
+							"id": "LegloA20102Teden",
+							"ime": "2. teden"
+						},
+						{
+							"id": "LegloA2010",
+							"ime": "1. teden"
+						}
+					]
+				},
+				{
+					"id": 2,
+					"ime": "B - LEGLO (3/7) 21.01.2011 (za oddajo od 21.03.2011)",
+					"sprememba": "30. marec 2011",
+					"mati": [{
+						"ime": "Cora Weisse Agram",
+						"img": "http://lh4.ggpht.com/_inA_san16GQ/TT_wticCDbI/AAAAAAAAAc0/mh9kiFkXhfQ/2.png",
+						"link": "http://www.psarna.si/index.html#/dogs/2",
+						"mati": "Zinna Weisse Agram",
+						"oce": "Karas crveni Mayestoso",
+						"polezen": "3.5.2007",
+						"izpiti": "B-BH",
+						"TODO": null,
+						"HD": "FAST NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"oce": [{
+						"ime": "Yoker vom Leithawald",
+						"img": "http://lh4.ggpht.com/_inA_san16GQ/TT_wuFkg1OI/AAAAAAAAAdA/rhsCBnBTEs0/5.png",
+						"link": "http://www.leithawald.com/hunde/Yoker/Yoker.htm",
+						"mati": null,
+						"oce": null,
+						"polezen": "23.09.2006",
+						"izpiti": "IPO-3",
+						"TODO": null,
+						"HD": "NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"galerije": [
+						{
+							"id": "LegloB20119Teden",
+							"ime": "9. teden"
+						},
+						{
+							"id": "LegloB20118Teden",
+							"ime": "8. teden"
+						},
+						{
+							"id": "LegloB20117Teden",
+							"ime": "7. teden"
+						},
+						{
+							"id": "LegloB20116Teden",
+							"ime": "6. teden"
+						},
+						{
+							"id": "LegloB20115Teden",
+							"ime": "5. teden"
+						},
+						{
+							"id": "LegloB20114TedenSamci",
+							"ime": "4. teden samci",
+							"samci": true,
+							"imena": [
+								"Bax (Oddan)",
+								"Ben (Oddan)",
+								"Bob (Oddan)"
+							]
+						},
+						{
+							"id": "LegloB20114TedenSamice",
+							"ime": "4. teden samice",
+							"samci": false,
+							"imena": [
+								"Bella (Oddana)",
+								"Bessy (Oddana)",
+								"Brixy (Oddana)",
+								"Becky (Oddana)",
+								"Bora (Oddana)",
+								"Baxi (Oddana)",
+								"Basha (Oddana)"
+							]
+						},
+						{
+							"id": "LegloB20113Teden",
+							"ime": "3. teden"
+						},
+						{
+							"id": "LegloB20112Teden",
+							"ime": "2. teden"
+						},
+						{
+							"id": "LegloB20111Teden",
+							"ime": "1. teden"
+						},
+						{
+							"id": "LegloB2011Ultrazvok",
+							"ime": "Ultrazvok"
+						}
+					]
+				},
+				{
+					"id": 3,
+					"ime": "C - LEGLO (4/7) 02.01.2012 (za oddajo od 01.03.2012)",
+					"sprememba": "02. januar 2012",
+					"mati": [{
+						"ime": "Cora Weisse Agram",
+						"img": "http://lh4.ggpht.com/_inA_san16GQ/TT_wticCDbI/AAAAAAAAAc0/mh9kiFkXhfQ/2.png",
+						"link": "http://www.psarna.si/index.html#/dogs/2",
+						"mati": "Zinna Weisse Agram",
+						"oce": "Karas crveni Mayestoso",
+						"polezen": "3.5.2007",
+						"izpiti": "B-BH",
+						"TODO": null,
+						"HD": "FAST NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"oce": [{
+						"ime": "Yoker vom Leithawald",
+						"img": "http://lh4.ggpht.com/_inA_san16GQ/TT_wuFkg1OI/AAAAAAAAAdA/rhsCBnBTEs0/5.png",
+						"link": "http://www.leithawald.com/hunde/Yoker/Yoker.htm",
+						"mati": null,
+						"oce": null,
+						"polezen": "23.09.2006",
+						"izpiti": "IPO-3",
+						"TODO": null,
+						"HD": "NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"galerije": [
+						{
+							"id": "LegloC20129Teden",
+							"ime": "9. teden"
+						},
+						{
+							"id": "LegloC20126Teden",
+							"ime": "6. teden"
+						},
+						{
+							"id": "LegloC20125Teden",
+							"ime": "5. teden"
+						},
+						{
+							"id": "LegloC20124TedenSamci",
+							"ime": "4. teden samci",
+							"samci": true,
+							"imena": [
+								"Cash (Oddan)",
+								"Colt (Oddan)",
+								"Condor (Oddan)",
+								"Castor (Oddan)"
+							]
+						},
+						{
+							"id": "LegloC20124TedenSamice",
+							"ime": "4. teden samice",
+							"samci": false,
+							"imena": [
+								"Cita (Oddana)",
+								"Conny",
+								"Chili (Oddana)",
+								"Cuba",
+								"Corri",
+								"Camba",
+								"Cyou"
+							]
+						},
+						{
+							"id": "LegloC20123Teden",
+							"ime": "3. teden"
+						},
+						{
+							"id": "LegloC20122Teden",
+							"ime": "2. teden"
+						},
+						{
+							"id": "LegloC20121Teden",
+							"ime": "1. teden"
+						}
+					]
+				},
+				{
+					"id": 4,
+					"ime": "D - LEGLO (0/4) 14.11.2012 (za oddajo od 14.01.2013)",
+					"sprememba": "14. november 2012",
+					"mati": [{
+						"ime": "Alona Howiland",
+						"img": "https://lh6.googleusercontent.com/-XqDjcsJGTqQ/UI6SyT8ejeI/AAAAAAAAA_A/2psp-iGNI3o/s263/alona.png",
+						"link": "http://www.psarna.si/index.html#/dogs/4",
+						"mati": "Cora Weisse Agram",
+						"oce": "Bonni Sajbertov",
+						"polezen": "15.02.2010",
+						"izpiti": "B-BH",
+						"TODO": null,
+						"HD": "NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"oce": [{
+						"ime": "Halk Grecs",
+						"img": "https://lh6.googleusercontent.com/-8zYIeQlK9ac/UI6Synn1-nI/AAAAAAAAA_A/AAhnUNSXcPE/s263/halk.png",
+						"link": "http://www.kdnos.si/item/halk-grecs.html",
+						"mati": "Flu Grecs",
+						"oce": "Vegas du Haut Mansard",
+						"polezen": "4.10.2010",
+						"izpiti": "B-BH",
+						"TODO": null,
+						"HD": "NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"galerije": [
+						{
+							"id": "LegloD20123Teden",
+							"ime": "3. teden"
+						},
+						{
+							"id": "LegloD20122Teden",
+							"ime": "2. teden"
+						},
+						{
+							"id": "LegloD20121Teden",
+							"ime": "1. teden"
+						},
+						{
+							"id": "LegloD2012Ultrazvok",
+							"ime": "Ultrazvok"
+						}
+					],
+					"notices": [
+						{
+							"title": "Kontakt za prodajo in ogled",
+							"content": "Tel: +386 40 749 087 (Nina), Potočnikova 19, Domžale"
+						}
+					],
+					"videos": [
+						{
+							"id": 1,
+							"url": "http://www.youtube.com/embed/2rz5Ax84utE"
+						}
+					]
+				}
+			]
+}

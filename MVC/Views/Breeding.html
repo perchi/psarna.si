@@ -1,0 +1,145 @@
+﻿<h1>${this.ime}</h1>
+
+{{if this.sprememba}}
+    <span class="datum">zadnja sprememba: ${this.sprememba}</span>
+    <div class="cb"></div>
+    <br />
+{{/if}}
+
+{{if this.notices}}
+	{{each this.notices}}
+		<p class="notice"><strong>${this.title}</strong> - ${this.content}</p>
+	{{/each}}
+{{/if}}
+
+{{each this.mati}}
+    <div id="content-mother">
+        <div class="col3wide">
+            <a class="profil-link" href="${this.link}" title="Profil"><img class="profil-img" src="${this.img}" /></a>
+        </div>
+
+        <div class="col4">
+            <h2>Mati: ${this.ime}</h2>
+            {{if this.oce}}
+                <p><strong>Oce:</strong> ${this.oce}</p>
+            {{/if}}
+
+            {{if this.mati}}
+                <p><strong>Mati:</strong> ${this.mati}</p>
+            {{/if}}
+        
+            {{if this.polezen}}
+            <p><strong>Poležen:</strong> ${this.polezen}</p>
+            {{/if}}
+        
+            {{if this.izpiti}}
+                <p><strong>Izpiti:</strong> ${this.izpiti}</p>
+            {{/if}}
+        
+            {{if this.TODO}}
+                <p><strong>TODO:</strong> ${this.TODO}</p>
+            {{/if}}
+        
+            {{if this.HD}}
+                <p><strong>HD:</strong> ${this.HD}</p>
+            {{/if}}
+        
+            {{if this.ED}}
+                <p><strong>ED:</strong> ${this.ED}</p>
+            {{/if}}
+        
+            {{if this.DNA}}
+                <p><strong>DNA:</strong> ${this.DNA}</p>
+            {{/if}}
+        </div>
+    </div>
+{{/each}}
+
+<div class="cb"></div>
+
+{{each this.oce}}
+    <div id="Div1">
+        <div class="col3wide">
+            <a class="profil-link" href="${this.link}" title="Profil"><img class="profil-img" src="${this.img}" /></a>
+        </div>
+
+        <div class="col4">
+            <h2>Oče: ${this.ime}</h2>
+            {{if this.oce}}
+                <p><strong>Oce:</strong> ${this.oce}</p>
+            {{/if}}
+
+            {{if this.mati}}
+                <p><strong>Mati:</strong> ${this.mati}</p>
+            {{/if}}
+        
+            {{if this.polezen}}
+            <p><strong>Poležen:</strong> ${this.polezen}</p>
+            {{/if}}
+        
+            {{if this.izpiti}}
+                <p><strong>Izpiti:</strong> ${this.izpiti}</p>
+            {{/if}}
+        
+            {{if this.TODO}}
+                <p><strong>TODO:</strong> ${this.TODO}</p>
+            {{/if}}
+        
+            {{if this.HD}}
+                <p><strong>HD:</strong> ${this.HD}</p>
+            {{/if}}
+        
+            {{if this.ED}}
+                <p><strong>ED:</strong> ${this.ED}</p>
+            {{/if}}
+        
+            {{if this.DNA}}
+                <p><strong>DNA:</strong> ${this.DNA}</p>
+            {{/if}}
+        </div>
+    </div>
+{{/each}}
+
+{{each this.galerije}}
+    <div class="cb"></div>
+    <h1>${this.ime}</h1>
+
+    {{if this.imena}}
+        <div id="content-imena">
+            <div class="col3wide">
+                <img src="css/images/{{if this.samci}}samci{{else}}samice{{/if}}.jpg" style="float: left" />
+                <div style="float: left; margin-left: 10px;">
+                    <h3>Imena:</h3>
+                    <ul>
+                        {{each this.imena}}
+                            <li>${this}</li>
+                        {{/each}}
+                    </ul>
+                </div>
+            </div>
+                            
+            <div class="col4">
+                <div id="galerija-${this.id}"></div>
+            </div>
+        </div>
+    {{else}}
+        <div id="galerija-${this.id}"></div>
+    {{/if}}
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#galerija-${this.id}").pwi({ username: 'marjan.holer', mode: 'album', album: "${this.id}", thumbSize: 160, thumbCrop: 1, showAlbumDescription: false, popupExt: function (photos) { photos.fancybox({ 'hideOnContentClick': false }) } });
+        });
+    </script>
+{{/each}}
+
+{{if this.videos}}
+	<div class="cb"></div>
+	<h1>Video</h1>
+	{{each this.videos}}
+		<iframe width="640" height="480" src="${this.url}" frameborder="0" allowfullscreen></iframe>
+		<div class="cb"></div>
+	{{/each}}
+{{/if}}
+
+<div class="cb"></div>
