@@ -238,12 +238,12 @@
 							"samci": false,
 							"imena": [
 								"Cita (Oddana)",
-								"Conny",
+								"Conny (Oddana)",
 								"Chili (Oddana)",
-								"Cuba",
-								"Corri",
-								"Camba",
-								"Cyou"
+								"Cuba (Oddana)",
+								"Corri (Oddana)",
+								"Camba (Oddana)",
+								"Cyou (Oddana)"
 							]
 						},
 						{
@@ -293,7 +293,14 @@
 					"galerije": [
 						{
 							"id": "LegloD20124Teden",
-							"ime": "4. teden"
+							"ime": "4. teden samice",
+							"samci": false,
+							"imena": [
+								"Dynas",
+								"Dixie",
+								"Demi",
+								"Dia"
+							]
 						},
 						{
 							"id": "LegloD20123Teden",
