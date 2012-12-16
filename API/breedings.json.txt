@@ -292,7 +292,7 @@
 					}],
 					"galerije": [
 						{
-							"id": "LegloD20124Teden",
+							"id": "LegloD20124TedenSamice",
 							"ime": "4. teden samice",
 							"samci": false,
 							"imena": [
@@ -301,6 +301,10 @@
 								"Demi",
 								"Dia"
 							]
+						},
+						{
+							"id": "LegloD20124Teden",
+							"ime": "4. teden"
 						},
 						{
 							"id": "LegloD20123Teden",
