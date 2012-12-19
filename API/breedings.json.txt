@@ -292,6 +292,10 @@
 					}],
 					"galerije": [
 						{
+							"id": "LegloD20125Teden",
+							"ime": "5. teden"
+						},
+						{
 							"id": "LegloD20124TedenSamice",
 							"ime": "4. teden samice",
 							"samci": false,
