@@ -359,7 +359,7 @@
 					}],
 					"oce": [{
 						"ime": "Uso vom Leithawald",
-						"img": "https://lh6.googleusercontent.com/-8zYIeQlK9ac/UI6Synn1-nI/AAAAAAAAA_A/AAhnUNSXcPE/s263/halk.png",
+						"img": "http://www.psarna.si/API/uso.png",
 						"link": "http://www.leithawald.com/hunde/Uso/Uso_vom_leithawald.htm",
 						"mati": "Una-Donna Leithawald",
 						"oce": "Ober Bad-Boll",
