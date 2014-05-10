@@ -339,6 +339,43 @@
 							"url": "http://www.youtube.com/embed/2rz5Ax84utE"
 						}
 					]
+				},
+				{
+					"id": 5,
+					"ime": "E - LEGLO 8.5.2014 (za oddajo od 8.7.2014)",
+					"sprememba": "10. maj 2014",
+					"mati": [{
+						"ime": "Alona Howiland",
+						"img": "https://lh6.googleusercontent.com/-XqDjcsJGTqQ/UI6SyT8ejeI/AAAAAAAAA_A/2psp-iGNI3o/s263/alona.png",
+						"link": "http://www.psarna.si/index.html#/dogs/4",
+						"mati": "Cora Weisse Agram",
+						"oce": "Bonni Sajbertov",
+						"polezen": "15.02.2010",
+						"izpiti": "B-BH",
+						"TODO": null,
+						"HD": "NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"oce": [{
+						"ime": "Halk Grecs",
+						"img": "https://lh6.googleusercontent.com/-8zYIeQlK9ac/UI6Synn1-nI/AAAAAAAAA_A/AAhnUNSXcPE/s263/halk.png",
+						"link": "http://www.kdnos.si/item/halk-grecs.html",
+						"mati": "Flu Grecs",
+						"oce": "Vegas du Haut Mansard",
+						"polezen": "4.10.2010",
+						"izpiti": "B-BH",
+						"TODO": null,
+						"HD": "NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"galerije": [
+						{
+							"id": "LegloD2012Ultrazvok",
+							"ime": "Ultrazvok"
+						}
+					]
 				}
 			]
 }
