@@ -342,7 +342,7 @@
 				},
 				{
 					"id": 5,
-					"ime": "E - LEGLO 8.5.2014 (za oddajo od 8.7.2014)",
+					"ime": "E - LEGLO (4/3) 9.5.2014 (za oddajo od 8.7.2014)",
 					"sprememba": "10. maj 2014",
 					"mati": [{
 						"ime": "Corri Howiland",
