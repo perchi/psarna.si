@@ -372,8 +372,8 @@
 					}],
 					"galerije": [
 						{
-							"id": "LegloD2012Ultrazvok",
-							"ime": "Ultrazvok"
+							"id": "LegloE20141Teden",
+							"ime": "1. teden"
 						}
 					]
 				}
