@@ -372,6 +372,10 @@
 					}],
 					"galerije": [
 						{
+							"id": "LegloE20142Teden",
+							"ime": "2. teden"
+						},
+						{
 							"id": "LegloE20141Teden",
 							"ime": "1. teden"
 						}
