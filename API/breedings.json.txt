@@ -374,7 +374,7 @@
 						{
 							"id": "LegloE20144TedenSamci",
 							"ime": "4. teden samci",
-							"samci": false,
+							"samci": true,
 							"imena": [
 								"Eros",
 								"Eron",
