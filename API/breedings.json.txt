@@ -372,6 +372,26 @@
 					}],
 					"galerije": [
 						{
+							"id": "LegloE20144TedenSamci",
+							"ime": "4. teden samci",
+							"samci": false,
+							"imena": [
+								"Eros",
+								"Eron",
+								"Enzo",
+								"Ethos"
+							]
+						},
+						{
+							"id": "LegloE20144TedenSamice",
+							"ime": "4. teden samice",
+							"samci": false,
+							"imena": [
+								"Eta",
+								"Eby"
+							]
+						},
+						{
 							"id": "LegloE20143Teden",
 							"ime": "3. teden"
 						},
