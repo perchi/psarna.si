@@ -1,0 +1,4 @@
+git add ZASPLETNO.jpg
+git commit -m 'add jpg file'
+git remote add origin https://github.com/ZASPLETNO.git
+git push -u origin master
