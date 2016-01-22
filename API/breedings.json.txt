@@ -419,35 +419,3 @@
 				}
 			]
 }
-},
-				{
-					"id": 6,
-					"ime": "F - LEGLO",
-					"sprememba": "26. januar 2016",
-					"mati": [{
-						"ime": "Alona Howiland",
-						"img": "http://pic.pedigreedatabase.com/pictures/657931-354235.jpg",
-						"link": "http://www.psarna.si/index.html#/dogs/4",
-						"mati": "Cora Weisse Agram",
-						"oce": "Bonni Sajbertov",
-						"polezen": "15.02.2010",
-						"izpiti": "B-BH",
-						"TODO": null,
-						"HD": "NORMAL",
-						"ED": "NORMAL",
-						"DNA": "GEPRÜFT"
-					}],
-					"oce": [{
-						"ime": "Finn vom Zellwaldrand",
-						"img": "http://www.vom-team-baierblick.de/assets/images/Finn_vom_Zellwaldrand_123222333.jpg",
-						"link": "http://www.zellwaldrand.de/finn.htm",
-						"mati": "Fani vom Bonihaus",
-						"oce": "Yester vom Feuermelder",
-						"polezen": "10.7.2012",
-						"izpiti": "IPO-3",
-						"TODO": null,
-						"HD": "NORMAL",
-						"ED": "NORMAL",
-						"DNA": "GEPRÜFT"
-						"Dodatno": "BSZS 2014 V10, BSZS 2015 TSB 5/5"
-					}],
