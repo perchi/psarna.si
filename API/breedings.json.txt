@@ -492,6 +492,11 @@
 						"Dodatno": "BSZS 2014 V10, BSZS 2015 TSB 5/5"
 					}],
 					"galerije": [
+						{
+							"id": "LegloF20161Teden",
+							"username": "nina.van.toor",
+							"ime": "1. teden"
+						}
 					]
 				}
 			]
