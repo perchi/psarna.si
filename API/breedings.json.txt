@@ -479,7 +479,7 @@
 					}],
 					"oce": [{
 						"ime": "Finn vom Zellwaldrand",
-						"img": "http://www.vom-team-baierblick.de/assets/images/Finn_vom_Zellwaldrand_123222333.jpg",
+						"img": "https://lh3.googleusercontent.com/-8UvJKKN0hbM/Vrua8ZrmDZI/AAAAAAAACVk/BQopVws6lLs/s512-Ic42/finnps.jpg",
 						"link": "http://www.zellwaldrand.de/finn.htm",
 						"mati": "Fani vom Bonihaus",
 						"oce": "Yester vom Feuermelder",
