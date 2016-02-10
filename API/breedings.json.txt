@@ -35,19 +35,23 @@
 					"galerije": [
 						{
 							"id": "LegloA201010Teden",
+							"username": "marjan.holer",
 							"ime": "10. teden"
 						},
 						{
 							"id": "LegloA20107Teden",
+							"username": "marjan.holer",
 							"ime": "7. teden"
 						},
 						
 						{
 							"id": "LegloA20106Teden",
+							"username": "marjan.holer",
 							"ime": "6. teden"
 						},
 						{
 							"id": "LegloA20105TedenSamci",
+							"username": "marjan.holer",
 							"ime": "5. teden samci",
 							"samci": true,
 							"imena": [
@@ -58,6 +62,7 @@
 						},
 						{
 							"id": "LegloA20105TedenSamice",
+							"username": "marjan.holer",
 							"ime": "5. teden samice",
 							"samci": false,
 							"imena": [
@@ -69,18 +74,22 @@
 						},
 						{
 							"id": "LegloA20104Teden",
+							"username": "marjan.holer",
 							"ime": "4. teden"
 						},
 						{
 							"id": "LegloA20103Teden",
+							"username": "marjan.holer",
 							"ime": "3. teden"
 						},
 						{
 							"id": "LegloA20102Teden",
+							"username": "marjan.holer",
 							"ime": "2. teden"
 						},
 						{
 							"id": "LegloA2010",
+							"username": "marjan.holer",
 							"ime": "1. teden"
 						}
 					]
@@ -118,26 +127,32 @@
 					"galerije": [
 						{
 							"id": "LegloB20119Teden",
+							"username": "marjan.holer",
 							"ime": "9. teden"
 						},
 						{
 							"id": "LegloB20118Teden",
+							"username": "marjan.holer",
 							"ime": "8. teden"
 						},
 						{
 							"id": "LegloB20117Teden",
+							"username": "marjan.holer",
 							"ime": "7. teden"
 						},
 						{
 							"id": "LegloB20116Teden",
+							"username": "marjan.holer",
 							"ime": "6. teden"
 						},
 						{
 							"id": "LegloB20115Teden",
+							"username": "marjan.holer",
 							"ime": "5. teden"
 						},
 						{
 							"id": "LegloB20114TedenSamci",
+							"username": "marjan.holer",
 							"ime": "4. teden samci",
 							"samci": true,
 							"imena": [
@@ -148,6 +163,7 @@
 						},
 						{
 							"id": "LegloB20114TedenSamice",
+							"username": "marjan.holer",
 							"ime": "4. teden samice",
 							"samci": false,
 							"imena": [
@@ -162,18 +178,22 @@
 						},
 						{
 							"id": "LegloB20113Teden",
+							"username": "marjan.holer",
 							"ime": "3. teden"
 						},
 						{
 							"id": "LegloB20112Teden",
+							"username": "marjan.holer",
 							"ime": "2. teden"
 						},
 						{
 							"id": "LegloB20111Teden",
+							"username": "marjan.holer",
 							"ime": "1. teden"
 						},
 						{
 							"id": "LegloB2011Ultrazvok",
+							"username": "marjan.holer",
 							"ime": "Ultrazvok"
 						}
 					]
@@ -211,18 +231,22 @@
 					"galerije": [
 						{
 							"id": "LegloC20129Teden",
+							"username": "marjan.holer",
 							"ime": "9. teden"
 						},
 						{
 							"id": "LegloC20126Teden",
+							"username": "marjan.holer",
 							"ime": "6. teden"
 						},
 						{
 							"id": "LegloC20125Teden",
+							"username": "marjan.holer",
 							"ime": "5. teden"
 						},
 						{
 							"id": "LegloC20124TedenSamci",
+							"username": "marjan.holer",
 							"ime": "4. teden samci",
 							"samci": true,
 							"imena": [
@@ -234,6 +258,7 @@
 						},
 						{
 							"id": "LegloC20124TedenSamice",
+							"username": "marjan.holer",
 							"ime": "4. teden samice",
 							"samci": false,
 							"imena": [
@@ -248,14 +273,17 @@
 						},
 						{
 							"id": "LegloC20123Teden",
+							"username": "marjan.holer",
 							"ime": "3. teden"
 						},
 						{
 							"id": "LegloC20122Teden",
+							"username": "marjan.holer",
 							"ime": "2. teden"
 						},
 						{
 							"id": "LegloC20121Teden",
+							"username": "marjan.holer",
 							"ime": "1. teden"
 						}
 					]
@@ -293,10 +321,12 @@
 					"galerije": [
 						{
 							"id": "LegloD20125Teden",
+							"username": "marjan.holer",
 							"ime": "5. teden"
 						},
 						{
 							"id": "LegloD20124TedenSamice",
+							"username": "marjan.holer",
 							"ime": "4. teden samice",
 							"samci": false,
 							"imena": [
@@ -308,22 +338,27 @@
 						},
 						{
 							"id": "LegloD20124Teden",
+							"username": "marjan.holer",
 							"ime": "4. teden"
 						},
 						{
 							"id": "LegloD20123Teden",
+							"username": "marjan.holer",
 							"ime": "3. teden"
 						},
 						{
 							"id": "LegloD20122Teden",
+							"username": "marjan.holer",
 							"ime": "2. teden"
 						},
 						{
 							"id": "LegloD20121Teden",
+							"username": "marjan.holer",
 							"ime": "1. teden"
 						},
 						{
 							"id": "LegloD2012Ultrazvok",
+							"username": "marjan.holer",
 							"ime": "Ultrazvok"
 						}
 					],
@@ -373,18 +408,22 @@
 					"galerije": [
 						{
 							"id": "LegloE20148Teden",
+							"username": "marjan.holer",
 							"ime": "8. teden"
 						},
 						{
 							"id": "LegloE20146Teden",
+							"username": "marjan.holer",
 							"ime": "6. teden"
 						},
 						{
 							"id": "LegloE20145Teden",
+							"username": "marjan.holer",
 							"ime": "5. teden"
 						},
 						{
 							"id": "LegloE20144TedenSamci",
+							"username": "marjan.holer",
 							"ime": "4. teden samci",
 							"samci": true,
 							"imena": [
@@ -396,6 +435,7 @@
 						},
 						{
 							"id": "LegloE20144TedenSamice",
+							"username": "marjan.holer",
 							"ime": "4. teden samice",
 							"samci": false,
 							"imena": [
@@ -405,14 +445,17 @@
 						},
 						{
 							"id": "LegloE20143Teden",
+							"username": "marjan.holer",
 							"ime": "3. teden"
 						},
 						{
 							"id": "LegloE20142Teden",
+							"username": "marjan.holer",
 							"ime": "2. teden"
 						},
 						{
 							"id": "LegloE20141Teden",
+							"username": "marjan.holer",
 							"ime": "1. teden"
 						}
 					]
