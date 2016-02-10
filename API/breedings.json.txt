@@ -496,11 +496,6 @@
 							"id": "LegloF20161Teden",
 							"username": "nina.van.toor",
 							"ime": "1. teden"
-						},
-						{
-							"id": "LegloF20162Teden",
-							"username": "nina.van.toor",
-							"ime": "2. teden"
 						}
 					]
 				}
