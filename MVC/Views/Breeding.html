@@ -128,7 +128,7 @@
 
     <script type="text/javascript">
         $(document).ready(function () {
-            $("#galerija-${this.id}").pwi({ username: 'marjan.holer', mode: 'album', album: "${this.id}", thumbSize: 160, thumbCrop: 1, showAlbumDescription: false, popupExt: function (photos) { photos.fancybox({ 'hideOnContentClick': false }) } });
+            $("#galerija-${this.id}").pwi({ username: "${this.username}", mode: 'album', album: "${this.id}", thumbSize: 160, thumbCrop: 1, showAlbumDescription: false, popupExt: function (photos) { photos.fancybox({ 'hideOnContentClick': false }) } });
         });
     </script>
 {{/each}}
