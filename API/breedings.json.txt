@@ -489,7 +489,7 @@
 						"HD": "NORMAL",
 						"ED": "NORMAL",
 						"DNA": "GEPRÜFT",
-						"Dodatno": "BSZS 2014 V10, BSZS 2015 TSB 5/5"
+						"Dodatno": "BSZS 2015 TSB 5/5"
 					}],
 					"galerije": [
 						{
