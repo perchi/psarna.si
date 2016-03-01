@@ -493,6 +493,16 @@
 					}],
 					"galerije": [
 					
+					       {
+							"id": "LegloF2016TedenSamice",
+							"username": "nina.van.toor",
+							"ime": "4. teden samice",
+							"samci": false,
+							"imena": [
+								"Falun Howiland",
+								"Freya Howiland"
+							]
+						},
 						{
 							"id": "LegloF20163Teden",
 							"username": "nina.van.toor",
