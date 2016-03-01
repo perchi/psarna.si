@@ -494,7 +494,7 @@
 					"galerije": [
 					
 					       {
-							"id": "LegloF2016TedenSamice",
+							"id": "LegloF20164TedenSamice",
 							"username": "nina.van.toor",
 							"ime": "4. teden samice",
 							"samci": false,
