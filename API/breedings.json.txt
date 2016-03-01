@@ -496,7 +496,7 @@
 					       {
 							"id": "LegloF20164TedenSamice",
 							"username": "nina.van.toor",
-							"ime": "4. teden samice",
+							"ime": "4. teden",
 							"samci": false,
 							"imena": [
 								"Falun Howiland",
