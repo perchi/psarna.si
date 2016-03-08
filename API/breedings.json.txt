@@ -493,7 +493,12 @@
 					}],
 					"galerije": [
 					
-					       {
+					       	{
+							"id": "LegloF20165Teden",
+							"username": "nina.van.toor",
+							"ime": "5. teden"
+						},
+					        {
 							"id": "LegloF20164TedenSamice",
 							"username": "nina.van.toor",
 							"ime": "4. teden",
