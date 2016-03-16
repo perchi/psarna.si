@@ -138,7 +138,13 @@
 					"HD": null,
 					"ED": null,
 					"DNA": null,
-					"galerija": "Corri"
+					"galerija": "Corri",
+					"mladici": [
+						{
+							"id": 5,
+							"ime": "Leglo E (9. 5. 2014)"
+						}
+					]
 				}
 			]
 }
