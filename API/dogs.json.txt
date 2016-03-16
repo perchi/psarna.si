@@ -97,7 +97,17 @@
 					"HD": "NORMAL",
 					"ED": "NORMAL",
 					"DNA": "GEPRÜFT",
-					"galerija": "LegloA2010Alona"
+					"galerija": "LegloA2010Alona",
+					"mladici": [
+						{
+							"id": 4,
+							"ime": "Leglo D (14. 11. 2012)"
+						},
+						{
+							"id": 6,
+							"ime": "Leglo F (2. 2. 2016)"
+						}
+					]
 				},
 				{
 					"id": 5,
