@@ -494,6 +494,11 @@
 					"galerije": [
 					
 					       	{
+							"id": "LegloF20166Teden",
+							"username": "nina.van.toor",
+							"ime": "6. teden"
+						},
+					       	{
 							"id": "LegloF20165Teden",
 							"username": "nina.van.toor",
 							"ime": "5. teden"
