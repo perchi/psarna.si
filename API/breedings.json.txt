@@ -553,7 +553,7 @@
 						"link": "http://www.pedigreedatabase.com/german_shepherd_dog/dog.html?id=2224892-romero-von-badboll",
 						"mati": "Elly del Seprio",
 						"oce": "Enosch von Amasis",
-						"polezen": "24.08.2011",
+						"polezen": "2.11.2012",
 						"izpiti": "IPO 3",
 						"TODO": null,
 						"HD": "FAST NORMAL",
