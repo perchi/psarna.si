@@ -529,6 +529,36 @@
 							"ime": "1. teden"
 						}
 					]
-				}
+				},
+				{
+					"id": 7,
+					"ime": "G - LEGLO (4/4) 6. 4. 2016",
+					"sprememba": "7. april 2016",
+					"mati": [{
+						"ime": "Corri Howiland",
+						"img": "https://lh5.googleusercontent.com/-Ezlf90itT2c/UKOEZYq4OVI/AAAAAAAABAc/2PBb7ys_Foc/s263/corri.png",
+						"link": "http://www.psarna.si/index.html#/dogs/6",
+						"mati": "Cora Weisse Agram",
+						"oce": "Yoker vom Leithawald",
+						"polezen": "02.01.2012",
+						"izpiti": "B-BH",
+						"TODO": null,
+						"HD": "NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}],
+					"oce": [{
+						"ime": "Romero von Bad-Boll",
+						"img": "https://lh3.googleusercontent.com/-0LXU-LwpQXM/VwX8Wq091EI/AAAAAAAACdg/uJzSt-xzoygXICD6d375t-Bg4hxmaUHqgCCo/s512-Ic42/romero%2Bspletna.jpg",
+						"link": "http://www.pedigreedatabase.com/german_shepherd_dog/dog.html?id=2224892-romero-von-badboll",
+						"mati": "Elly del Seprio",
+						"oce": "Enosch von Amasis",
+						"polezen": "24.08.2011",
+						"izpiti": "IPO 3",
+						"TODO": null,
+						"HD": "FAST NORMAL",
+						"ED": "NORMAL",
+						"DNA": "GEPRÜFT"
+					}]
 			]
 }
