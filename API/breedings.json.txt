@@ -559,7 +559,14 @@
 						"HD": "FAST NORMAL",
 						"ED": "NORMAL",
 						"DNA": "GEPRÜFT"
-					}]
+					}],
+					"galerije": [
+					
+					       	{
+							"id": "LegloG20161Teden",
+							"username": "nina.van.toor",
+							"ime": "1. teden"
+						}
 			}
 		]
 }
