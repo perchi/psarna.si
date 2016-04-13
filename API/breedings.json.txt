@@ -567,6 +567,7 @@
 							"username": "nina.van.toor",
 							"ime": "1. teden"
 						}
+					]	
 			}
 		]
 }
