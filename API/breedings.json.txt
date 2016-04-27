@@ -561,6 +561,7 @@
 						"DNA": "GEPRÜFT"
 					}],
 					"galerije":  [
+					        
 					        {
 							"id": "LegloG20163Teden",
 							"username": "nina.van.toor",
