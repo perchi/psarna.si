@@ -564,7 +564,7 @@
 					
 						{	
 							"id": "LegloG20163Teden",
-							"username": "nina.van.toor";
+							"username": "nina.van.toor",
 							"ime": "3. teden"
 						},
 					        {
