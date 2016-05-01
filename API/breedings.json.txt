@@ -569,7 +569,7 @@
 							"ime": "3. teden"
 						},
 					        {
-							"id": "LegloG20163Teden",
+							"id": "LegloG20161Teden",
 							"username": "nina.van.toor",
 							"ime": "2. teden"
 						},
