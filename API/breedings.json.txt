@@ -564,7 +564,7 @@
 					}],
 					"galerije":  [
 						{	
-							"id": "Gleglo3teden",
+							"id": "LegloG20163Teden",
 							"username": "nina.van.toor",
 							"ime": "3. teden"
 						},
