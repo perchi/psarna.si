@@ -564,7 +564,7 @@
 					}],
 					"galerije":  [
 				        	{
-							"id": "110960204155927039639/6282634629000762801",
+							"id": "6282634629000762801",
 							"username": "nina.van.toor",
 							"ime": "4. teden samci",
 							"samci": true,
