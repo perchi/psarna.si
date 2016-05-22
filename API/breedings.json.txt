@@ -563,6 +563,11 @@
 						"DNA": "GEPRÜFT"
 					}],
 					"galerije":  [
+					        {
+							"id": "6287624361748020465",
+							"username": "nina.van.toor",
+							"ime": "5. teden"
+						},
 				        	{
 							"id": "6282634629000762801",
 							"username": "nina.van.toor",
