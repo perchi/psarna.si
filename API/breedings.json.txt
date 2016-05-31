@@ -564,6 +564,11 @@
 					}],
 					"galerije":  [
 					        {
+							"id": "6290744963082815009",
+							"username": "nina.van.toor",
+							"ime": "8. teden"
+						},
+					        {
 							"id": "6287624361748020465",
 							"username": "nina.van.toor",
 							"ime": "5. teden"
