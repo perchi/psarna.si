@@ -154,7 +154,7 @@
 					"mati": "Corri Howiland",
 					"oce": "Romero von Bad-Boll",
 					"polezen": "6. 4. 2016",
-					"izpiti": "NORMAL",
+					"izpiti": null,
 					"TODO": null,
 					"HD": null,
 					"ED": null,
