@@ -145,8 +145,7 @@
 							"ime": "Leglo E (9. 5. 2014)"
 						}
 					]
-				}
-				<!--
+				},
 				{
 					"id": 7,
 					"sprememba": "5. september 2016",
@@ -161,6 +160,5 @@
 					"ED": null,
 					"DNA": null
 				}
-				-->
 			]
 }
