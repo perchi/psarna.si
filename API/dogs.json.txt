@@ -146,7 +146,8 @@
 						}
 					]
 				}
-				<!--{
+				<!--
+				{
 					"id": 7,
 					"sprememba": "5. september 2016",
 					"ime": "Gral Howiland",
@@ -159,6 +160,7 @@
 					"HD": null,
 					"ED": null,
 					"DNA": null
-				}-->
+				}
+				-->
 			]
 }
