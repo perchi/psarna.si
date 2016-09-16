@@ -126,20 +126,6 @@
 					"galerija": "LegloB2011Baxi"
 				},
 				{
-					"id": 7,
-					"sprememba": "5. september 2016",
-					"ime": "Gral Howiland",
-					"img": "http://pic.pedigreedatabase.com/pictures/2520189-734315.jpg",
-					"mati": "Corri Howiland",
-					"oce": "Romero von Bad-Boll",
-					"polezen": "6. 4. 2016",
-					"izpiti": null,
-					"TODO": null,
-					"HD": null,
-					"ED": null,
-					"DNA": null,
-				},
-				{
 					"id": 6,
 					"sprememba": "12. november 2012",
 					"ime": "Corri Howiland",
