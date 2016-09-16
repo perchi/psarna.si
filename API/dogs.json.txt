@@ -158,7 +158,7 @@
 					"TODO": null,
 					"HD": null,
 					"ED": null,
-					"DNA": null,
+					"DNA": null
 				}
 			]
 }
