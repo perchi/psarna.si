@@ -159,6 +159,21 @@
 					"HD": null,
 					"ED": null,
 					"DNA": null
+				},
+				{
+					"id": 8,
+					"sprememba": "16. september 2016",
+					"ime": "Freya Howiland",
+					"img": null,
+					"mati": "Alona Howiland",
+					"oce": "Finn vom Zellwaldrand",
+					"polezen": "2. 2. 2016",
+					"izpiti": null,
+					"TODO": null,
+					"HD": null,
+					"ED": null,
+					"DNA": null
 				}
+					
 			]
 }
